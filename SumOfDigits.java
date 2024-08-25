@@ -1,6 +1,7 @@
 public class SumOfDigits {
     public static int sumOfDigits(int n) {
         // Your code here
+        return 0;
     }
 
     public static void main(String[] args) {

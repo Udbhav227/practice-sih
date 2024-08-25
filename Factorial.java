@@ -1,6 +1,7 @@
 public class Factorial {
     public static int findFactorial(int n) {
         // Your code here
+        return 1;
     }
 
     public static void main(String[] args) {
